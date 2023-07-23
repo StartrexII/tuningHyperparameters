@@ -10,7 +10,6 @@
 
 ## Project Description
 
-
 The objective of the competition is to help us build as good a model as possible so that we can, as optimally as this data allows,
 relate molecular information, to an actual biological response.
 
@@ -35,11 +34,13 @@ relate molecular information, to an actual biological response.
 :arrow_up:[To the table of contents](#table-of-contents)
 
 ## Data description
+
  We have shared the data in the comma separated values (CSV) format. Each row in this data set represents a molecule. The first column contains experimental data describing an actual biological response; the molecule was seen to elicit this response (1), or not (0). The remaining columns represent molecular descriptors (d1 through d1776), these are calculated properties that can capture some of the characteristics of the molecule - for example size, shape, or elemental constitution. The descriptor matrix has been normalized. 
 
 :arrow_up:[To the table of contents](#table-of-contents)
 
 ## Libraries
+
 * Python (3.11.1):
     * [pandas (2.0.1)](https://pandas.pydata.org)
     * [numpy (1.24.3)](https://numpy.org)
@@ -53,7 +54,7 @@ relate molecular information, to an actual biological response.
 ## Project Installation
 
 ```
-    git clone https://github.com/StartrexII/DataScienceProjects
+    git clone https://github.com/StartrexII/tuningHyperparameters
 ```
 
 :arrow_up:[To the table of contents](#table-of-contents)                        
