@@ -1,12 +1,12 @@
 # <center> Hyperparameter selection methods
 
 ## Table of contents
-1. [Project Description](#Project-Description)
-2. [Data description](#Data-description)
-3. [Libraries](#Libraries)
-4. [Project Installation](#Project-Installation)
-5. [Using the project](#Using)
-6. [Authors](#Authors)
+1. [Project Description](#project-description)
+2. [Data description](#data-description)
+3. [Libraries](#libraries)
+4. [Project Installation](#project-Installation)
+5. [Using the project](#using)
+6. [Authors](#authors)
 
 ## Project Description
 
